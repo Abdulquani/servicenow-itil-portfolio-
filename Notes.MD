@@ -17,4 +17,5 @@ Highlights:
 - Resolution codes, closure notes, and attachments
 - Configuration of ticketing form fields to align with ITIL best practices
 
-Purpose: To provide recruiters and hiring managers with evidence of my Service Desk Analyst skills, ITIL knowledge, and ServiceNow proficiency.
+### Purpose
+- To provide recruiters and hiring managers with evidence of my Service Desk Analyst skills, ITIL knowledge, and ServiceNow proficiency.
