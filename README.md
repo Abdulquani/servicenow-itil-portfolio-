@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=840jFWZH9jk Highlights:
 ### Purpose
 - To provide recruiters and hiring managers with evidence of my Service Desk Analyst skills, ITIL knowledge, and ServiceNow proficiency.
 
-###About Me
+### About Me
 - Certifications:** CompTIA A+, Network+, IT Ops Specialist
 - Transferable Skills:** Customer service, documentation, troubleshooting
 - Goal:** Secure a 1st or 2nd Line Engineer Role
