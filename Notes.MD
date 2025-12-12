@@ -1,13 +1,13 @@
-** ServiceNow ITIL Portfolio 
+*** ServiceNow ITIL Portfolio 
 This repository showcases my practical work in ServiceNow, demonstrating ITIL-aligned processes and field configuration. It includes three documented tickets created in a Personal Developer Instance (PDI)
 
-**Skills Demonstrated
+***Skills Demonstrated
 - Incident Management
 - Request Fulfillment
 - Problem Management
 - ITIL Process Alignment
 
-** [ServiceNow Portfolio Showcase | Incident, Request & Problem Tickets (ITIL Demonstration)
+*** [ServiceNow Portfolio Showcase | Incident, Request & Problem Tickets (ITIL Demonstration)
 https://www.youtube.com/watch?v=840jFWZH9jk
 Highlights:
 - Correct classification of tickets across Incident, Request, and Problem processes
